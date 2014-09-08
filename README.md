@@ -3,7 +3,7 @@ Get user country by IP-address using PHP
 
 Quick example which shows how to get user country name by IP-address using PHP.
 
-Read the article here: [http://circlewaves.com/blog/get-user-country-by-ip-using-php/](http://circlewaves.com/blog/get-user-country-by-ip-using-php/)
+Read the article here: [http://circlewaves.com/blog/get-user-country-by-ip/](http://circlewaves.com/blog/get-user-country-by-ip/)
 
 GETTING STARTED
 ----

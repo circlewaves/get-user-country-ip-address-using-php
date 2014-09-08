@@ -4,7 +4,7 @@
 * Author: Max Kostinevich <info@circlewaves.com>
 *
 * Source URL: https://github.com/circlewaves/get-user-country-ip-address-using-php/
-* Article URL: http://circlewaves.com/blog/get-user-country-ip-address-using-php/
+* Article URL: http://circlewaves.com/blog/get-user-country-by-ip/ 
 *
 * MIT license. 
 * circlewaves.com - All rights reserved, 2014 (c)
